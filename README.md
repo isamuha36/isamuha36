@@ -82,20 +82,6 @@
 
 ---
 
-### 🔥 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 🏬 **[WIMS (Warehouse Management)](https://github.com/isamuha36)** | Sistem Manajemen Inventaris & Gudang enterprise dengan role-based access & multi-warehouse track. | `ASP.NET Core MVC` `EF Core` `SQLite/Postgres` `Bootstrap 5` |
-| 🌐 **[Website Desa Ciwiru](https://github.com/isamuha36)** | Portal desa berbasis fullstack dengan visualisasi anggaran desa (Recharts) & RBAC. | `Next.js` `TypeScript` `Prisma` `MariaDB` `Docker` |
-| 🛍️ **[SAMIKADOS E-Commerce](https://github.com/isamuha36)** | Platform e-commerce percetakan dengan panel khusus customer, seller, dan admin. | `Laravel` `Vue.js` `REST API` |
-| 🎓 **[Saladdin-LMS](https://github.com/isamuha36)** | Backend Learning Management System yang scalable. | `Laravel` `MySQL` `RESTful API` |
-| 🤖 **[Knowledge Chatbot AI](https://github.com/isamuha36)** | Automasi customer service real-time terintegrasi basis data. | `n8n` `Gemini API` `Automation` |
-
-<br/>
-
----
-
 ### 📊 GitHub Analytics
 
 <div align="center">
