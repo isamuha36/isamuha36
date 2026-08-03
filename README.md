@@ -99,12 +99,20 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=isamuha36&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Isa's GitHub Stats" />
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isamuha36&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
+  <img height="185" src="https://github-readme-stats-eight-theta.vercel.app/api?username=isamuha36&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Isa's GitHub Stats" />
+  <img height="185" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=isamuha36&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isamuha36&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=isamuha36&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isamuha36&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
 <br/>
