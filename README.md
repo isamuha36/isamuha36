@@ -1,8 +1,7 @@
 <!-- 1. HEADER GELOMBANG BERGERAK (CAPSULE RENDER) -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:3b82f6&height=200&section=header&text=Isa%20Muhammad&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Project%20Engineer%20%7C%20Sotware%20Engineering%20Student&descAlignY=55&descSize=18" alt="Header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:3b82f6&height=200&section=header&text=Isa%20Muhammad&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Project%20Engineer%20%7C%20Software%20Engineering%20Student&descAlignY=55&descSize=18" alt="Header" />
 
-  <!-- 2. ANIMASI TEKS MENGETIK (TYPING SVG) -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Backend+Enthusiast;Building+Scalable+APIs+%26+Web+Apps;Automation+%26+AI+Integration+Explorer;Always+Learning+New+Technologies" alt="Typing SVG" />
   </a>
@@ -37,16 +36,15 @@
 
 ### 📊 Statistik & Aktivitas GitHub
 
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=isamuha36&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Isa's GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isamuha36&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<div align="center">>
+  <img height="165em" src="https://streak-stats.demolab.com?user=isamuha36&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isamuha36&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <br/>
 
-<!-- 3. GRAFIK AKTIVITAS BERANIMASI -->
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=isamuha36&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isamuha36&theme=tokyonight" alt="Profile Details" />
 </div>
 
 ---
