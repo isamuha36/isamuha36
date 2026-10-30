@@ -36,7 +36,7 @@
 
 ### 📊 Statistik & Aktivitas GitHub
 
-<div align="center">>
+<div align="center">
   <img height="165em" src="https://streak-stats.demolab.com?user=isamuha36&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isamuha36&theme=tokyonight" alt="Top Languages" />
 </div>
