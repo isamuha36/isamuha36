@@ -1,6 +1,6 @@
 <!-- 1. HEADER GELOMBANG BERGERAK (CAPSULE RENDER) -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:3b82f6&height=200&section=header&text=Isa%20Muhammad&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Computer%20Science%20Student&descAlignY=55&descSize=18" alt="Header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:3b82f6&height=200&section=header&text=Isa%20Muhammad&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Project%20Engineer%20%7C%20Sotware%20Engineering%20Student&descAlignY=55&descSize=18" alt="Header" />
 
   <!-- 2. ANIMASI TEKS MENGETIK (TYPING SVG) -->
   <a href="https://git.io/typing-svg">
